@@ -118,9 +118,9 @@ export default function Home() {
 				</Flex>
 			)}
 			<Projects range={[2]}/>
-			{ newsletter.display &&
+			{/* { newsletter.display &&
 				<Mailchimp/>
-			}
+			} */}
 		</Flex>
 	);
 }
